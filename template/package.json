@@ -1,5 +1,6 @@
 {
-  "name": "my-nuxt-app",
+  "name": "{{ name }}",
+  "description": "{{ description }}",
   "version": "1.0.0",
   "private": true,
   "scripts": {
