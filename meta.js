@@ -19,7 +19,8 @@ module.exports = {
     },
     author: {
       type: 'string',
-      message: 'Author'
+      message: 'Author',
+	  default: 'project@dev.com'
     },
     extra: {
       type: 'string',
