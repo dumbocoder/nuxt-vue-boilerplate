@@ -38,5 +38,5 @@ module.exports = {
    * You can add a custom complete message
    */
   completeMessage:
-    'start the following steps, wait: \n \n {{^ inPlace}} cd {{destDirName}} \n {{/ inPlace}} npm i  n npm run dev or npm start',
+    'start the following steps, wait: \n \n {{^ inPlace}} cd {{destDirName}} \n {{/ inPlace}} npm i install \n npm run dev or npm start',
 };
